@@ -1,5 +1,5 @@
 # Documentation
-
+[created by Leiam Nash](https://www.facebook.com/LeiamNashRebrth)
 * [`login`](#login)
 * [`api.addUserToGroup`](#addUserToGroup)
 * [`api.changeAdminStatus`](#changeAdminStatus)
