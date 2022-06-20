@@ -1,4 +1,6 @@
-# Documentation
+Documentation ver. 0.6
+<Br> 
+
 [created by Leiam Nash](https://www.facebook.com/LeiamNashRebrth)
 * [`login`](#login)
 * [`api.addUserToGroup`](#addUserToGroup)
