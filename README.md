@@ -1,5 +1,5 @@
 Documentation ver. 0.6
-<Br> 
+<Br>  
 
 [created by Leiam Nash](https://www.facebook.com/LeiamNashRebrth)
 * [`login`](#login)
